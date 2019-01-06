@@ -30,3 +30,9 @@ new_length2 = len(list2)
 x = len(list3)
 w = (new_length1+new_length2)-(2*x)
 print(w)
+
+
+
+
+print("hello")
+
