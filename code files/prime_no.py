@@ -11,5 +11,5 @@ for x in range(2, y+1):
         print(x, end=" ")
 
 
-def manthan():
-    print("manthan")
+
+9
