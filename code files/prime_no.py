@@ -9,7 +9,3 @@ for x in range(2, y+1):
             a = 1
     if a==0:
         print(x, end=" ")
-
-
-
-9
