@@ -7,7 +7,6 @@ list2_len = len(string2)
 list1 = []
 list2 = []
 list3 = []
-
 for man in range(list1_len):
     list1.append(string1[man])
 for an in range(list2_len):
